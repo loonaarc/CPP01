@@ -1,7 +1,7 @@
 CXX = c++
 CXXFLAGS = -Wall -Wextra -Werror -std=c++98
-SRCS = main.cpp 
-INCLDS = H
+SRCS = main.cpp
+INCLDS =
 OBJS = $(SRCS:.cpp=.o)
 NAME = sed_is_for_losers
 
